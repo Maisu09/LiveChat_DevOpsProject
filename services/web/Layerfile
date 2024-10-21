@@ -1,0 +1,4 @@
+# Layerfile used for Ephemeral environment
+FROM /lAYERFILE
+
+EXPOSE WEBSITE https://localhost:443
